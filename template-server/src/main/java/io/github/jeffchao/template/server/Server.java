@@ -1,4 +1,4 @@
-package io.jeffchao.template.server;
+package io.github.jeffchao.template.server;
 
 public class Server {
 

@@ -1,6 +1,6 @@
 apply plugin: 'application'
 
-mainClassName = 'io.jeffchao.template.server.Server'
+mainClassName = 'io.github.jeffchao.template.server.Server'
 
 dependencies {
 }

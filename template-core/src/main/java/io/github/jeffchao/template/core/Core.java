@@ -1,4 +1,4 @@
-package io.jeffchao.template.core;
+package io.github.jeffchao.template.core;
 
 public class Core {
 
